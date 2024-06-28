@@ -35,7 +35,7 @@ end
 
 # p '--------'
 
-p fibs_rec(8)
+# p fibs_rec(8)
 # p fibs_rec(0)
 # p fibs_rec(2)
 # p fibs_rec(1)
